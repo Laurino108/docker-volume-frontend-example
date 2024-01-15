@@ -17,10 +17,10 @@
 
 ### Build the Application: 
 
-1. Follow the steps above
+1. Follow the steps above,
 **If everythings works fine you can continue**
 2. Run the command `npm run build` the final output is in the `./public` folder
-3. Add all files to your webserver
+3. Add the output of `./public` to your webserver
 
 ## Run the Application with Docker
 To run the application with docker follow these steps: 
